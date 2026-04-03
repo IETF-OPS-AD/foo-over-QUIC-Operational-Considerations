@@ -16,6 +16,7 @@ Examples of work in progress specifications, covering various operator uses, are
 * [draft-yl-radext-quic-transport](https://datatracker.ietf.org/doc/draft-yl-radext-quic-transport/): RADIUS over QUIC
 * [draft-yang-pce-pcep-over-quic](https://datatracker.ietf.org/doc/draft-yang-pce-pcep-over-quic/): PCEP over QUIC
 * [draft-cel-nfsv4-rpc-over-quicv1](https://datatracker.ietf.org/doc/draft-cel-nfsv4-rpc-over-quicv1/): Remote Procedure Call over QUIC Version 1
+* [draft-mdt-quic-explicit-measurements](https://datatracker.ietf.org/doc/draft-mdt-quic-explicit-measurements/): QUIC Troubleshooting
 
 "[Considerations around Transport Header Confidentiality, Network Operations, and the Evolution of Internet Transport Protocols](https://datatracker.ietf.org/doc/rfc9065/)" (RFC 9065) identifies some network operation challenges. Assessing how porting some widely deployed protocols within operator networks would provide required operational needs and whether there is impact on how these protocols are managed. 
 
